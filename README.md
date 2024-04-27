@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Qiang Tang (Daniel)
-- 👀 I’m interested in computer vision (CV), computer graphics (CG) and deep learning field
-- 🌱 I’m currently learning to combine CV and CG together
-- 💞️ I’m looking to collaborate on any CV and CG field
+- 👀 I’m interested in Large Language Model, Computer Vision (CV), Computer Graphics (CG) and deep learning field
+- 🌱 I’m currently learning to use LLM to solve NLP tasks
+- 💞️ I’m looking to collaborate on combining language, image and 3D models.
 - 📫 How to reach me
 
 <!---
